@@ -1,16 +1,21 @@
-### Hi there 👋
+# Oiii! Mi chama Cintia Araújo 👋
+ Sou uma desenvolvedor(a) Front End apaixonada por tecnologia 👩🏻‍💻💻.
+#
 
-<!--
-**cintiaaraujo/cintiaaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Atualmente estou estudando:                                       
+
+
+
+- 🚀 **Html**
+- 🚀**Css**
+- 🚀**JavaScript**
+- 🚀**React js** 
+- 🚀**Node**
+
+ 
+##
+![cintiaaraujo Status](https://github-readme-stats.vercel.app/api?username=cintiaaraujo&theme=radical )
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cintiaaraujo&theme=radical)]
+
