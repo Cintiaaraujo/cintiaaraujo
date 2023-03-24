@@ -1,7 +1,5 @@
 # Olá! Mi chamo Cintia Araújo 👋
  Sou uma desenvolvedor(a) Front End apaixonada por tecnologia 👩🏻‍💻💻.
-#
-
 
 
 ### Atualmente estou estudando:                                     
