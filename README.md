@@ -4,7 +4,7 @@
 
 
 
-### Atualmente estou estudando:                                       
+### Atualmente estou estudando:                                     
 
 
 
