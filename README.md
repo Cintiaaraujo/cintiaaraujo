@@ -14,8 +14,14 @@
 - 🚀**React js** 
 - 🚀**Node**
 
- 
-##
-![cintiaaraujo Status](https://github-readme-stats.vercel.app/api?username=cintiaaraujo&theme=radical )
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cintiaaraujo&theme=radical)]
+
+
+
+
+
+![cintiaaraujo GitHub stats](https://github-readme-stats.vercel.app/api?username=cintiaaraujo&show_icons=true&theme=radical)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintiaaraujo&show_icons=true&theme=radical)
+
+
+
 
