@@ -4,7 +4,9 @@
 
 ### Atualmente estou estudando:                                     
 
-
+<P align="center">
+ <img width="479" src="">
+ </p>
 
 - 🚀 **Html**
 - 🚀**Css**
