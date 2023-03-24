@@ -1,4 +1,4 @@
-# Oiii! Mi chama Cintia Araújo 👋
+# Oiii! Sou Cintia Araújo 👋
  Sou uma desenvolvedor(a) Front End apaixonada por tecnologia 👩🏻‍💻💻.
 #
 
