@@ -1,5 +1,6 @@
-# Olá! Mi chamo Cintia Araújo 👋
- Sou uma desenvolvedor(a) Front End apaixonada por tecnologia 👩🏻‍💻💻.
+<h1 align="center"> Olá! Mi chamo Cintia Araújo 👋 </h1>
+
+ <h2 align="center">  Sou uma desenvolvedor(a) Front End apaixonada por tecnologia 👩🏻‍💻💻. </h2>
 
 
 ### Atualmente estou aprendendo:    
@@ -24,7 +25,7 @@
 <a href="https://www.linkedin.com/in/cintiaaraujodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  
- ![Snake animation](https://github.com/cintiaaraujo/cintiaaraujo/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
