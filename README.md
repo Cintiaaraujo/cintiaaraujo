@@ -1,7 +1,6 @@
 <h1 align="center"> Olá! Mi chamo Cintia Araújo 👋 </h1>
  <h2 align="center">  Sou uma desenvolvedor(a) Front End apaixonada por tecnologia 👩🏻‍💻💻. </h2>
  
- 
 
 ### Atualmente estou aprendendo:   
 
@@ -17,7 +16,8 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
- ##
+
+##
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cintiaaraujo&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintiaaraujo&show_icons=true&theme=radical"/>
